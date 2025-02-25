@@ -14,6 +14,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and co
 - **Frameworks:** React, Node.js, Vue
 - **Tools:** Git, Docker, VS Code
 
+## Top Repositories
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngd-b&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📈 GitHub Stats
 ![ngd-b's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngd-b&show_icons=true&theme=radical)
 
